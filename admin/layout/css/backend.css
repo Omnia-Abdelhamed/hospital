@@ -1,0 +1,119 @@
+/*.navtry{
+	box-sizing: border-box;
+	padding-top: 20px;
+}
+.navtry a{
+	margin-left: 20px;
+	margin-top: 30px;
+}*/
+
+/*start main rulez body etc*/
+
+body{
+	background-color: #F4F4F4;
+}
+
+/*end main rulez body etc*/
+
+
+/*start login admin index.php*/
+
+.login{
+	width: 300px;
+	margin: 165px auto;
+}
+.login h4{
+	color: #888;
+}
+.login input{
+	margin-bottom: 10px;
+}
+.login .form-control{
+	background-color: #EAEAEA;
+}
+.login .btn{
+	background-color: #008dde;
+}
+
+/*end login admin index.php*/	
+
+
+/* start members page*/
+
+h1{
+	font-size: 45px;
+	margin: 40px 0;
+	font-weight: bold;
+	color: #666;
+}
+.form-control{
+	position: relative;
+}
+.required{
+	font-size: 30px;
+	position: absolute;
+	right: 30px;
+	top: 8px;
+	color:#D20707;
+}
+.show-pass{
+	font-size: 30px;
+	position: absolute;
+	right: -30px;
+	top: 6px;
+}
+.main-table{
+	-webkit-box-shadow:0 3px 10px #ccc;
+}
+.main-table td{
+	background-color: #fff;
+	vertical-align: middle !important;
+}
+.main-table tr th{
+	background-color: #333;
+	color: #fff;
+	text-align: center;
+}
+.main-table .btn{
+	padding: 3px 10px;
+
+}
+
+
+/* end members page*/
+
+/* start navbar */
+.navbar-default {
+    background-color:transparent;
+    border-color: transparent;
+}
+.navbar {
+    min-height: 50px;
+    margin-bottom: 20px;
+    padding: 15px 0;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #ffffff;
+    text-transform: uppercase;
+    font-family: 'open_sanssemibold';
+}
+.nav>li>a:hover, .nav>li>a:focus {
+    text-decoration: none;
+    background-color:transparent;
+    color: #fff !important;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+    background-color:transparent;
+}
+.navbar-default .navbar-nav>li>a:focus {
+    color: #fff;
+    background-color: transparent;
+}
+.menu-bg{
+    //background:#00a5ff ;
+    background: #2fd674;
+}
+/* end navbar */
+h1{
+	margin-top: 133px;
+}
